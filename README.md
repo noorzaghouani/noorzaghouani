@@ -3,8 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <a href="https://github.com/noorzaghouani" target="_blank"><img align="right" src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" /></a>
 
-CybersecuritY Engineer
-----------------------
+## CybersecuritY Engineer
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=noorzaghouani&label=Profile%20views&style=flat" alt="Profile views" />
@@ -22,6 +21,10 @@ I'm a cybersecurity enthusiast, building at the intersection of security, automa
 
 </div>
 
+
+<div align="center">
+  <img src="./cybersecurity_balloons_animated.gif" alt="Cybersecurity GIF" width="600" />
+</div>
 
 ## 📊 GitHub Stats
 
