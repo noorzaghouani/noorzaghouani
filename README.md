@@ -1,9 +1,7 @@
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Nour ZAGHOUANI
 
-<a href="https://github.com/noorzaghouani" target="_blank"><img align="right" src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" /></a>
-
-## CybersecuritY Engineer
+## CybersecuritY Engineer <a href="https://github.com/noorzaghouani" target="_blank"><img align="right" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" alt="GitHub" /></a>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=noorzaghouani&label=Profile%20views&style=flat" alt="Profile views" />
