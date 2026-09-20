@@ -1,7 +1,10 @@
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Nour ZAGHOUANI
 
-<table width="100%"><tr><td><h2>CybersecuritY Engineer</h2></td><td align="right"><a href="https://www.github.com/noorzaghouani" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /></picture></a></td></tr></table>
+<a href="https://www.github.com/noorzaghouani" target="_blank" rel="noreferrer"><img align="right" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>
+
+CybersecuritY Engineer
+----------------------
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=noorzaghouani&label=Profile%20views&style=flat" alt="Profile views" />
